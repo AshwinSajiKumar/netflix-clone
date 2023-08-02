@@ -11,7 +11,7 @@ Video Playback: Clicking on a movie poster will display a video related to that 
 Demo
 You can view the live demo of this Netflix clone by visiting the following link:
 
-Netflix Clone Demo
+https://ashwinsajikumar.github.io/netflix-clone/
 
 How to Run Locally
 To run this project locally on your machine, follow these steps:
